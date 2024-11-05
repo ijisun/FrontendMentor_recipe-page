@@ -2,11 +2,11 @@
 @font-face {
   font-family: "YoungSerif";
   font-weight: 400;
-  src: url("./fonts/young-serif/YoungSerif-Regular.ttf");
+  src: url("./fonts/YoungSerif-Regular.ttf");
 }
 @font-face {
   font-family: "Outfit";
-  src: url("./fonts/outfit/Outfit-VariableFont_wght.ttf");
+  src: url("./fonts/Outfit-VariableFont_wght.ttf");
 }
 
 /* reset style */
